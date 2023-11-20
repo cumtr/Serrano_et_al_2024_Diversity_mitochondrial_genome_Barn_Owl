@@ -4,7 +4,7 @@ The data in this directory were used to in the manuscript entitled "Characteriza
 
 ## Description of the data and file structure
 
-Description of the structure:
+*Description of the structure:*
 
 -Depth\_MitoOneCopy\_174ind.txt
 
@@ -16,8 +16,7 @@ Description of the structure:
 
 \- mtDNAsequences\_174ind\_Aligned\.fasta
 
-<br>
-Description of the data:
+*Description of the data:*
 
 **Depth\_MitoOneCopy\_174ind.txt** \- This file describe the coverage of the entire mitochondrial genome for all the 174 individuals used in the study\. It can be used to infer the number of repeats in the D\-loop of each individuals\.
 
@@ -27,7 +26,7 @@ Description of the data:
 
 **mtDNAsequences\_174ind\_Aligned.fasta** \- This file contain the sequence of all the individuals\, tried to remove the repeated region at the end of the sequence\. This file can be used to build the tree presented in Figure 2\.
 
-## Sharing/Access information
+## Raw data information
 
 All the data share in this archive were pre processed.
 
