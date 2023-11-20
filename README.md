@@ -18,9 +18,13 @@ Description of the structure:
 
 <br>
 Description of the data:
+
 **Depth\_MitoOneCopy\_174ind.txt** \- This file describe the coverage of the entire mitochondrial genome for all the 174 individuals used in the study\. It can be used to infer the number of repeats in the D\-loop of each individuals\.
+
 **IndSequences/** \- This directory contain the mitochondrial sequences for all the 174 individuals \(one file per individual\, format : SampleName\_FullMitoRenamed\.fasta\)\.
+
 **Mito\_TytoAlba\_DupliOneCopy.fasta** \- This fasta file give the reference used in this study\. In brief\, this sequence is the same as complete cicular mtDNA sequence of the barn owl \(Accession number MZ318036\.1\)\, except that the last part was trimed to contain only one copy of each repeat\.
+
 **mtDNAsequences\_174ind\_Aligned.fasta** \- This file contain the sequence of all the individuals\, tried to remove the repeated region at the end of the sequence\. This file can be used to build the tree presented in Figure 2\.
 
 ## Sharing/Access information
