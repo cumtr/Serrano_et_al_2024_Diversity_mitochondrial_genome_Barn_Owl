@@ -5,10 +5,15 @@ The data in this directory were used to in the manuscript entitled "Characteriza
 ## Description of the data and file structure
 
 Description of the structure:
+
 -Depth\_MitoOneCopy\_174ind.txt
+
 \- IndSequences/
+
  -\*\_FullMitoRenamed.fasta
+ 
 \- Mito\_TytoAlba\_DupliOneCopy\.fasta
+
 \- mtDNAsequences\_174ind\_Aligned\.fasta
 
 <br>
