@@ -6,15 +6,10 @@ The data in this directory were used to in the manuscript entitled "Characteriza
 
 *Description of the structure:*
 
--Depth\_MitoOneCopy\_174ind.txt
-
-\- IndSequences/
-
- -\*\_FullMitoRenamed.fasta
- 
-\- Mito\_TytoAlba\_DupliOneCopy\.fasta
-
-\- mtDNAsequences\_174ind\_Aligned\.fasta
+- Depth\_MitoOneCopy\_174ind.txt
+- IndSequences/\*\_FullMitoRenamed.fasta
+- Mito\_TytoAlba\_DupliOneCopy\.fasta
+- mtDNAsequences\_174ind\_Aligned\.fasta
 
 *Description of the data:*
 
@@ -31,7 +26,7 @@ The data in this directory were used to in the manuscript entitled "Characteriza
 All the data share in this archive were pre processed.
 
 Raw reads are available on NCBI at :
-\- GenBank BioProject PRJNA727977
-\- GenBank BioProject PRJNA700797
-\- GenBank BioProject PRJNA727915
-\- GenBank BioProject PRJNA925445
+- GenBank BioProject PRJNA727977
+- GenBank BioProject PRJNA700797
+- GenBank BioProject PRJNA727915
+- GenBank BioProject PRJNA925445
