@@ -23,9 +23,9 @@ The data in this directory were used to in the manuscript entitled "Characteriza
 
 ## Raw data information
 
-All the data share in this archive were pre processed.
+All the data share in this archive were pre-processed.
 
-Raw reads are available on NCBI at :
+Raw reads are available on SRA at :
 - GenBank BioProject PRJNA727977
 - GenBank BioProject PRJNA700797
 - GenBank BioProject PRJNA727915
