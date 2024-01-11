@@ -1,6 +1,6 @@
-# Serrano_et_al_2023_Diversity_mitochondrial_genome_Barn_Owl
+# Serrano_et_al_2024_Diversity_mitochondrial_genome_Barn_Owl
 
-The data in this directory were used to in the manuscript entitled "Characterization of the diversity of barn owl’s mitochondrial genome reveals high copy number variations in the control region" by Serrano et al. (2023)
+The data in this directory were used to in the manuscript entitled "Characterization of the diversity of barn owl’s mitochondrial genome reveals high copy number variations in the control region" by Serrano et al. (2024)
 
 ## Description of the data and file structure
 
